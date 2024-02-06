@@ -1,5 +1,6 @@
-#completed
-n = int(input('Please input your numnber here: '))
+#status: completed
+#No matter how big your number is, it will always go back to 4 2 1
+n = int(input('Please input your number here: '))
 while n < n*n:
     if n % 2==0:
         n = n/2
