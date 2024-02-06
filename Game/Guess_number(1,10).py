@@ -1,4 +1,5 @@
-#completed
+#status: completed
+#Testing your luck by guessing. Good luck!
 import random
 numbers = random.randint(1, 10)
 numb = int(input('Pick a number from 1 to 10: '))
