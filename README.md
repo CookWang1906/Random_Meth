@@ -1,3 +1,7 @@
+# Random-Meth
+- Just a lot of random math I found on the internet,
+- I code this just to have fun and improve my coding speed.
+
 # Random Math
 
 ![611362-Blackboard-Dual-Monitors-Knowledge-mathematics](https://github.com/CookWang1906/Random_Meth/assets/148769157/d6a64d52-440b-481f-900a-bc2c5a42aeca)
