@@ -1,4 +1,4 @@
-# Random-Meth
+# Random Meth
 - Just a lot of random math I found on the internet,
 - I code this just to have fun and improve my coding speed.
 
@@ -14,7 +14,3 @@ We welcome new contributors to our open source projects. The world is ours for t
 
 * You can follow me on [Github](https://github.com/CookWang1906)
 * After following me, you can send me message about some weird math you know or simply just say hi and talk.
-
-### About Us
-
-Poop
