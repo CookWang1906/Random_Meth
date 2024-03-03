@@ -14,3 +14,4 @@ We welcome new contributors to our open source projects. The world is ours for t
 
 * You can follow me on [Github](https://github.com/CookWang1906)
 * After following me, you can send me message about some weird math you know or simply just say hi and talk.
+##### My first repository.
